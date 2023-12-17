@@ -9,9 +9,11 @@ An attempt to reverse-engineer PC Creator game servers
 ### Currency Rate
 [currency-exchange](https://github.com/pccre/currency-exchange) reimplements the currency rate server in go, works pretty much flawlessly with the game
 
+### Session Manager
+[session-manager](https://github.com/pccre/session-manager) reimplements the session manager server in go, works the same as the game and one of the features is improved
+
 ## Planned
 - Trading
-- Session Manager
 - Leaderboards
 
 # Other PC Creator games
